@@ -1,22 +1,68 @@
 # Sprint 1
 
-All information about your first sprint should be put into this folder. Additionally, the information below should be updated to give a short summary of your daily scrum meetings.
-
 ---
 
-## Day [X] - Scrum Meeting summary
-The Scrum Master for this meeting was **Mike Crabb**
+## Day [1](27/01/20) - Scrum Meeting summary
+The Scrum Master for this meeting was **Callum Darling**
 
 ### Members Present:
-Mike, Rachel, information
+Peter Leslie, Alfi Hippisley, Ruth Carnegie, Marius Urbelis, Daniel Blackley, Callum Darling
 
 ### Members Not Present:
-Naughty Student 1, Naughty Student 2
+N/A
 
 ### Apologies:
-Ill Student 1.
+
 
 ### Summary of Conversation:
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Sprint Backlog duties handed out. 
+- User stories completed as group. 
+- Discussion of the way we will be building the main app. 
+- Agreement with everyone's duties. 
+- Creation of ER-Diagram
 
 ---
+
+## Day [2](28/01/20)- Scrum Meeting summary
+The Scrum Master for this meeting was **Callum Darling**
+
+### Members Present:
+Peter Leslie, Alfi Hippisley, Ruth Carnegie, Marius Urbelis, Daniel Blackley, Callum Darling
+
+### Members Not Present:
+N/A
+
+### Apologies:
+
+
+### Summary of Conversation:
+- Sprint Backlog duties handed out. 
+- User stories completed as group. 
+- Discussion of the way we will be building the main app. 
+- Agreement with everyone's duties. 
+- Creation of ER-Diagram
+
+---
+
+
+## Day [3](29/01/20) - Scrum Meeting summary
+The Scrum Master for this meeting was **Callum Darling**
+
+### Members Present:
+Peter Leslie, Alfi Hippisley, Ruth Carnegie, Marius Urbelis, Daniel Blackley, Callum Darling
+
+### Members Not Present:
+N/A
+
+### Apologies:
+
+
+### Summary of Conversation:
+- Sprint Backlog duties handed out. 
+- User stories completed as group. 
+- Discussion of the way we will be building the main app. 
+- Agreement with everyone's duties. 
+- Creation of ER-Diagram
+
+---
+
