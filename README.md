@@ -1,5 +1,5 @@
-# AgileDevelopment_templateCWRepo
-AC31007/AC51003 Agile Software Engineering - Group Number [17]
+# AgileDevelopment
+AC31007 Agile Software Engineering - Group Number [17]
 
 Group Members:
 - Peter Leslie (Matriculation Number)
