@@ -2,7 +2,7 @@
 
 ---
 
-## Day [1](27/01/20) - Scrum Meeting summary
+## Day [1] (27/01/20) - Scrum Meeting summary
 The Scrum Master for this meeting was **Callum Darling**
 
 ### Members Present:
@@ -23,7 +23,7 @@ N/A
 
 ---
 
-## Day [2](28/01/20)- Scrum Meeting summary
+## Day [2] (28/01/20)- Scrum Meeting summary
 The Scrum Master for this meeting was **Callum Darling**
 
 ### Members Present:
@@ -45,7 +45,7 @@ N/A
 ---
 
 
-## Day [3](29/01/20) - Scrum Meeting summary
+## Day [3] (29/01/20) - Scrum Meeting summary
 The Scrum Master for this meeting was **Callum Darling**
 
 ### Members Present:
